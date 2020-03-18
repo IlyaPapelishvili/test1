@@ -36,7 +36,7 @@
 
 					}
 				]
-			}
+			},
 			{
 				"name": "Australia",
 				"countres":[
@@ -46,7 +46,7 @@
 							"population": "24.6 million"
 					}
 				]
-			}
+			},
 			{
 				"name": "Africa",
 				"countres": [
@@ -61,7 +61,7 @@
 							"population": "41.32 milliom"	
 						}
 					]
-			}
+			},
 			{
 				"name": "North America",
 				"countres": [
@@ -76,7 +76,7 @@
 							"population": "327.2 milliom"	
 						}
 					]
-			}
+			},
 			{
 				"name": "South America",
 				"countres": [
